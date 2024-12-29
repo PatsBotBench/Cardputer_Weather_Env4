@@ -1,0 +1,7 @@
+API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+LATITUDE=33.8235
+LONGITUDE=75.8256
+UNITS=imperial
+LANGUAGE=en
+WIFI_SSID=yourssid
+WIFI_PASSWORD=yourpassword
